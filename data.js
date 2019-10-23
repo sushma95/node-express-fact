@@ -74,7 +74,7 @@
   { "id": 415},
   { "id": 416},
   { "id": 417,"fact":"REST id faster than Soap", "by":"https://github.com/santhoshkumarbollena/"},
-  { "id": 418,"fact":"A Website Doesn’t Look Same on Diverse Computer Screens","by","https://github.com/manideepchamala/node-express-fact"},
+  { "id": 418,"fact":"A Website Doesn’t Look Same on Diverse Computer Screens","by":"https://github.com/manideepchamala/node-express-fact"},
   { "id": 419},
   { "id": 420},
   { "id": 421},
