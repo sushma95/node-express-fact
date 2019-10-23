@@ -62,7 +62,7 @@
   { "id": 403, "fact":"Progressive web apps use less data than a regular mobile app", "by":"https://github.com/rishikaponugoti/node-express-fact/edit/master/data.js"},
   { "id": 404,"fact": "node js uses google v8 engine to run javascript"},
   { "id": 405},
-  { "id": 406 "fact":"Progressive Web Apps are installable and live on the user's home screen, without the need for an app store.", "by":"https://github.com/Chinmayi98"},
+  { "id": 406, "fact":"Progressive Web Apps are installable and live on the user's home screen, without the need for an app store.", "by":"https://github.com/Chinmayi98"},
   { "id": 407},
   { "id": 408 "fact":"Pyhton programming name is derived from British comedy series Monty Python's Flying Circus.", "by":"https://github.com/gangadhary574"},
   { "id": 409},
