@@ -1,4 +1,4 @@
- b module.exports = [
+  module.exports = [
   { "id": 1, "fact": "HTML is for content.", "by": "https://github.com/denisecase" },
   { "id": 2, "fact": "CSS is for style.", "by": "https://github.com/denisecase" },
   { "id": 3, "fact": "JavaScript is for logic.", "by": "https://github.com/denisecase" },
@@ -29,7 +29,7 @@
   { "id": 113},
   { "id": 115,"fact": "Flask is a microframework for Python","by":"https://github.com/AlekyaPochampally"},
 
-  { "id": 114}, "fact": "HTML is hyper text markup language use to create web pages", "by": "https://github.com/AzharAlali"},
+  { "id": 114, "fact": "HTML is hyper text markup language use to create web pages", "by": "https://github.com/AzharAlali"},
  
   { "id": 116},
   { "id": 117, "fact": "Javascript is single threaded, but web workers and event listeners can be utilized to run javascript in a seperate background thread.", "by": "https://github.com/dakotagrvtt" },
@@ -57,7 +57,7 @@
   { "id": 215},
   { "id": 216, "fact": "Flask is a microweb Framework written in python", "by": "https://github.com/hareeshbhuma"},
   { "id": 217 , "fact":"Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google.", "by":"https://github.com/RaghunandanKumar"},
-  { "id": 218, "fact": "Express framework is built on top of the node.js framework", "by":"https://github.com/Bhavya-123"}
+  { "id": 218, "fact": "Express framework is built on top of the node.js framework", "by":"https://github.com/Bhavya-123"},
   { "id": 219, "fact": "Angular is a platform for building mobile and desktop web applications.", "by": "https://github.com/prudhvi15"},
   { "id": 220, "fact": "PWA (Progressive Web App) is a responsive web app.", "by": "https://github.com/tanibi"},
   { "id": 221, "fact": "React is not a framework. It is a JavaScript library", "by": "https://github.com/aawajjoshi" },
@@ -77,7 +77,7 @@
   { "id": 411},
   { "id": 412},
   { "id": 413},
-  { "id": 414},
+  { "id": 414,"fact": "React is not a javascript framework instead it's a javascript library","by":"https://github.com/sushma95/"},
   { "id": 415},
   { "id": 416},
   { "id": 417},
