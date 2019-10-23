@@ -58,7 +58,7 @@
   { "id": 223, "fact": "GitHub is a opensource version control system to store the code.", "by": "https://github.com/mohanpratapa" },
   { "id": 224},
   { "id": 401, "fact":"Node.js has wide library of codes", "by":"https://github.com/Sravani537520/node-express-fact"},
-  { "id": 402},
+  { "id": 402, "fact":"React isn't faster than JavaScript", "by":"https://github.com/kavyareddy536886/node-express-fact" },
   { "id": 403},
   { "id": 404},
   { "id": 405},
