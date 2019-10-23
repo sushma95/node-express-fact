@@ -76,7 +76,7 @@
   { "id": 417,"fact":"REST id faster than Soap", "by":"https://github.com/santhoshkumarbollena/"},
   { "id": 418},
   { "id": 419,"fact":"AngularJS is a structural framework for dynamic web apps", "by":"https://github.com/prasu93"},
-  { "id": 420},
+  { "id": 420,"fact":"Two Third of Web Usage is on Mobile Devices", "by":"https://github.com/Deepakmalempati"},
   { "id": 421},
   { "id": 422},
   { "id": 423},
